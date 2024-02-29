@@ -17,7 +17,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>0000 RAFAEL 0000</summary>
+  <summary>About +</summary>
 
   RAFAEL 0003
 </details>
