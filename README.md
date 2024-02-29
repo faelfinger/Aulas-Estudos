@@ -1,17 +1,9 @@
 # A1
-AleatoriamenteRandom
-
-    • CODES
-    
-
-                                                                ♪
-
-
 
    <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">AleatoriamenteRandom</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -19,7 +11,8 @@ AleatoriamenteRandom
   RAFAEL 0000
 
   -    Pode estar meio bagunçado ou organizado
-   Ou ter coisas obsoletas ou coisas atualizadas 
+   Ou ter coisas obsoletas ou coisas atualizadas
+    • CODES
 </p>
 
 <!-- Dropdown -->
@@ -31,8 +24,8 @@ AleatoriamenteRandom
 
 
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=faelfinger&show_icons=true&theme=gotham)
+<!-- GithubStats 
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=faelfinger&show_icons=true&theme=gotham) -->
 
 
 
