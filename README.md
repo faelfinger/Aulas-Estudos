@@ -19,15 +19,11 @@
 <details>
   <summary>About +</summary>
 
-  RAFAEL 0003
+  FaeL
 </details>
 
 
 
 <!-- GithubStats 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=faelfinger&show_icons=true&theme=gotham) -->
-
-
-
-
 
