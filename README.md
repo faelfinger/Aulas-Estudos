@@ -9,7 +9,7 @@
   ♪
 
   <p>-    Pode estar meio bagunçado ou organizado </p>
-  <p> Ou ter coisas obsoletas ou coisas atualizadas </p>
+         <p>           Ou ter coisas obsoletas ou coisas atualizadas </p>
     • CODES
 </p>
 
