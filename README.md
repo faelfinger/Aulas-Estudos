@@ -1,5 +1,3 @@
-# A1
-
    <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -24,8 +22,4 @@
   FaeL
 </details>
 
-
-
-<!-- GithubStats 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=faelfinger&show_icons=true&theme=gotham) -->
 
